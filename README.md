@@ -2,6 +2,8 @@
 
 This project is a simple web-based **Contact Us** form that allows users to submit their contact information and messages. The backend is built using **Flask** (a Python web framework), and it stores submitted form data in an **SQLite** database. The API endpoint processes the form submissions and saves them securely to the database.
 
+To view Project: <a href="https://ramnathnayak07.github.io/Vaatavaran/">Click here</a><br>
+
 ## Features
 
 - **Frontend**: A clean and stylish contact form interface built using HTML, CSS, and JavaScript.
