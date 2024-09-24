@@ -2,7 +2,7 @@
 
 This project is a simple web-based **Contact Us** form that allows users to submit their contact information and messages. The backend is built using **Flask** (a Python web framework), and it stores submitted form data in an **SQLite** database. The API endpoint processes the form submissions and saves them securely to the database.
 
-To view Project: <a href="http://127.0.0.1:5500/frontend/index.html">Click here</a><br>
+To view Project: <a href="https://ramnathnayak07.github.io/Contact-Form/">Click here</a><br>
 
 ## Features
 
